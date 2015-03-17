@@ -1,0 +1,19 @@
+{
+    "name":        "beezus/gluephp",
+    "type":        "library",
+    "description": "Maps URLs to classes",
+    "homepage":    "https://github.com/jtopjian/gluephp",
+    "authors": [
+        {
+            "name":  "Joe Topjian"
+        }
+    ],
+    "require": {
+        "php": ">= 5.3.0"
+    },
+    "autoload": {
+        "files": [
+            "glue.php"
+        ]
+    }
+}
